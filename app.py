@@ -3,7 +3,7 @@ import streamlit as st
 from openai import OpenAI
 from PIL import Image
 
-st.title("RX Pizzeria")
+st.title("Crumbl Cookies")
 
 # Initialize OpenAI client
 @st.cache_resource
